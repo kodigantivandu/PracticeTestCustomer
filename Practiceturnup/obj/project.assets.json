@@ -126,11 +126,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Test_Automation\\VanduPracticeTestCustomer\\PracticeTestCustomer\\Practiceturnup\\Practiceturnup.csproj",
+      "projectUniqueName": "C:\\Test_Automation\\Jan-2024\\Practiceturnup\\Practiceturnup.csproj",
       "projectName": "Practiceturnup",
-      "projectPath": "C:\\Test_Automation\\VanduPracticeTestCustomer\\PracticeTestCustomer\\Practiceturnup\\Practiceturnup.csproj",
+      "projectPath": "C:\\Test_Automation\\Jan-2024\\Practiceturnup\\Practiceturnup.csproj",
       "packagesPath": "C:\\Users\\kodig\\.nuget\\packages\\",
-      "outputPath": "C:\\Test_Automation\\VanduPracticeTestCustomer\\PracticeTestCustomer\\Practiceturnup\\obj\\",
+      "outputPath": "C:\\Test_Automation\\Jan-2024\\Practiceturnup\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kodig\\AppData\\Roaming\\NuGet\\NuGet.Config",
