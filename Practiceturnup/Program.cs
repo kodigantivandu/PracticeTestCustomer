@@ -5,7 +5,7 @@ using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using System.Net;
 
-static void login()
+static void TimeAndMaterial()
 {
     //open chrome driver
     IWebDriver driver = new ChromeDriver();
@@ -309,6 +309,6 @@ static void login()
 }
 
 
-login();
+TimeAndMaterial();
 
 
