@@ -27,8 +27,9 @@ public class Program
             TimeandMaterialpage tmpageObj = new TimeandMaterialpage();
 
                          tmpageObj.CreateTimeRecord(driver);
-                          tmpageObj.EditTimeRecord(driver);
-                          tmpageObj.DeleteTimeRecord(driver);
+                         tmpageObj.EditTimeRecord(driver);
+                         tmpageObj.DeleteTimeRecord(driver);
+
         }
 
 
@@ -86,9 +87,7 @@ public class Program
 
 
 
-
-
-
+/*
 /* TEST CASE TO ADD NEW CUSTOMER DETAILS
 
 //enter customer details
@@ -207,5 +206,6 @@ goToLastPage.Click();*/
   {
       Console.WriteLine("New Customer Creation Failed");
       Console.WriteLine("FAILED " + BeforeNewCustTotalCount + "--" + AfterNewCustTotalCount);
-  }*/
+  }  */
+
 
