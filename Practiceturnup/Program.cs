@@ -26,9 +26,9 @@ public class Program
 
             TimeandMaterialpage tmpageObj = new TimeandMaterialpage();
 
-                         tmpageObj.CreateTimeRecord(driver);
-                         tmpageObj.EditTimeRecord(driver);
-                         tmpageObj.DeleteTimeRecord(driver);
+            tmpageObj.CreateTimeRecord(driver);
+            tmpageObj.EditTimeRecord(driver);
+            tmpageObj.DeleteTimeRecord(driver);
 
         }
 
@@ -36,50 +36,6 @@ public class Program
         login();
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
